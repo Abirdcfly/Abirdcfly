@@ -12,5 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> If you want to support me. You can consider [buying me a coffee](https://www.buymeacoffee.com/Abirdcfly).
+
+<br>
+
+<a href="https://www.buymeacoffee.com/Abirdcfly"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Abirdcfly&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abirdcfly&include_all_commits=true&count_private=true&hide_title=true&bg_color=ffffff&show_icons=true&icon_color=1E90FF&text_color=000000" />
