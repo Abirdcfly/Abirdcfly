@@ -27,7 +27,7 @@ I'm Abirdcfly.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+None
 <!--END_SECTION:activity-->
 
 ---
