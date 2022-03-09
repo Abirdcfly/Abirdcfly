@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I'm Abirdcfly. 
+🌱  I’m currently learning kubernetes.
 
-🔭 I’m currently working on kubernetes
-
+📫  How to reach me: fp544037857@gmail.com
 
 ---
 
