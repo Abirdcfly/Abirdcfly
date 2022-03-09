@@ -27,8 +27,6 @@ I'm Abirdcfly.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32116](https://github.com/kubernetes/website/pull/32116) in [kubernetes/website](https://github.com/kubernetes/website)
-<!--END_SECTION:activity-->
 
 ---
 
