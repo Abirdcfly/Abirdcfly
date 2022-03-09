@@ -19,12 +19,10 @@ I'm Abirdcfly.
 🔭 I’m currently working on kubernetes
 
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abirdcfly&include_all_commits=true&count_private=true&hide_title=true&bg_color=ffffff&show_icons=true&icon_color=1E90FF&text_color=000000" />
-
 ---
 
 ### :zap: Recent Activity
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abirdcfly&include_all_commits=true&count_private=true&hide_title=true&bg_color=ffffff&show_icons=true&icon_color=1E90FF&text_color=000000" />
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#32116](https://github.com/kubernetes/website/pull/32116) in [kubernetes/website](https://github.com/kubernetes/website)
