@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ---
 
-### :zap: Recent Activity
+### :zap: Recent Activity   <img align="right" src="https://komarev.com/ghpvc/?username=Abirdcfly&label=VIEWS&color=brightgreen" />
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abirdcfly&include_all_commits=true&count_private=true&hide_title=true&bg_color=ffffff&show_icons=true&icon_color=1E90FF&text_color=000000" />
 
 <!--START_SECTION:activity-->
