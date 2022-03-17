@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abirdcfly&include_all_commits=true&count_private=true&hide_title=true&bg_color=ffffff&show_icons=true&icon_color=1E90FF&text_color=000000" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93438](https://github.com/kubernetes/kubernetes/issues/93438) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. ❌ Closed PR [#32116](https://github.com/kubernetes/website/pull/32116) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#32116](https://github.com/kubernetes/website/issues/32116) in [kubernetes/website](https://github.com/kubernetes/website)
-4. ❗️ Opened issue [#3304](https://github.com/kubernetes/org/issues/3304) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 💪 Opened PR [#32116](https://github.com/kubernetes/website/pull/32116) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🎉 Merged PR [#1](https://github.com/Abirdcfly/Abirdcfly/pull/1) in [Abirdcfly/Abirdcfly](https://github.com/Abirdcfly/Abirdcfly)
+2. 💪 Opened PR [#1](https://github.com/Abirdcfly/Abirdcfly/pull/1) in [Abirdcfly/Abirdcfly](https://github.com/Abirdcfly/Abirdcfly)
+3. 🗣 Commented on [#93438](https://github.com/kubernetes/kubernetes/issues/93438) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. ❌ Closed PR [#32116](https://github.com/kubernetes/website/pull/32116) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#32116](https://github.com/kubernetes/website/issues/32116) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 ---
