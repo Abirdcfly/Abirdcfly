@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 💻 I’m currently working on kubernetes.
 
-📫  How to reach me: fp544037857@gmail.com
+📫 How to reach me: fp544037857@gmail.com
 
 😄 Pronouns: 彦祖
+
+⚡ I hope to contribute code to all the open source software I have used.
