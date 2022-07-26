@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-💻 I’m currently working on kubernetes.
+💻 I am a member of kubernetes, a code contributor to several cncf projects, and a code contributor to golang/go
 
-📫 How to reach me: fp544037857@gmail.com
+📫 How to reach me: fp544037857[at]gmail.com
 
 😄 Pronouns: 彦祖
 
