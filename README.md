@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 
 ---
 
-You may have seen me submit pr for a large number (>100) of projects, sorry, I'm not that familiar with these projects, this is just to help fix some simple issues for these projects along the way when verifying https://github.com/golang/go/issues/53968
-
-I do find that open source projects are not the same as each other, there are some that are not friendly and some that do not expect outside contributions.
+PS: You may have seen me submit pr for a large number (>100) of projects, sorry, I'm not that familiar with these projects, this is just to help fix some simple issues for these projects along the way when verifying https://github.com/golang/go/issues/53968
