@@ -19,7 +19,3 @@ Here are some ideas to get you started:
 😄 Pronouns: 彦祖
 
 ⚡ I hope to contribute code to all the OSS (Open Source Software) I have used.
-
----
-
-PS: You may have seen me submit pr for a large number (>100) of projects, sorry, I'm not that familiar with these projects, this is just to help fix some simple issues for these projects along the way when verifying https://github.com/golang/go/issues/53968
