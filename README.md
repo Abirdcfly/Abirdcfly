@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 ⚡ I hope to contribute code to all the OSS (Open Source Software) I have used.
 
 ---
-With the opportunity to verify https://github.com/golang/go/issues/53968, I have submitted code to many projects.(Not an uncommon experience)
 
-The contrast shows the differences of each project even more.
+You may have seen me submit pr for a large number (>100) of projects, sorry, I'm not that familiar with these projects, this is just to help fix some simple issues for these projects along the way when verifying https://github.com/golang/go/issues/53968
 
-- Some OSS do not accept external contributions(unusual, but reasonable): [cube2222/octosql](https://github.com/cube2222/octosql) | [piotrnar/gocoin](https://github.com/piotrnar/gocoin)
-
-- Some OSS I will personally never submit code to again(Blacklist): [PufferPanel/PufferPanel](https://github.com/PufferPanel/PufferPanel)
+I do find that open source projects are not the same as each other, there are some that are not friendly and some that do not expect outside contributions.
