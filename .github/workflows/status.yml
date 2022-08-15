@@ -11,7 +11,9 @@ on:
 env:
   GITHUB_NAME: Abirdcfly
   GITHUB_EMAIL: fp544037857@gmail.com
-
+  WITH_REPOS: false
+  WITH_STARED: false
+  
 jobs:
   build:
     name: Build
@@ -19,10 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: My GitHub Status
-        uses: yihong0618/github-readme-stats@main
-        with:
-          WITH_STARED: false
-          REPOS_NUM: 3
+        uses: Abirdcfly/github-readme-stats@main
       - name: Push README
         run: |
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
