@@ -3,7 +3,7 @@ name: GitHub README STATS
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 10 * * *"
   push:
     branches:
       - main
@@ -11,8 +11,6 @@ on:
 env:
   GITHUB_NAME: Abirdcfly
   GITHUB_EMAIL: fp544037857@gmail.com
-  WITH_REPOS: false
-  WITH_STARED: false
   
 jobs:
   build:
@@ -22,6 +20,9 @@ jobs:
       - uses: actions/checkout@v2
       - name: My GitHub Status
         uses: Abirdcfly/github-readme-stats@main
+        with:
+          WITH_REPOS: false
+          WITH_STARED: false
       - name: Push README
         run: |
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
