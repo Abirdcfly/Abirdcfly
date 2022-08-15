@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ⚡ I hope to contribute code to all the OSS (Open Source Software) I have used.
 
+---
+
 <!--START_SECTION:my_github-->
 ## The repos I contributed to
 | ID  |                                                 REPO                                                  |                                    FIRSTDATE                                     |                                     LASTDATE                                     |                                              PRCOUNT                                               |
