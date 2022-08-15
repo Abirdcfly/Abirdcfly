@@ -21,8 +21,7 @@ jobs:
       - name: My GitHub Status
         uses: Abirdcfly/github-readme-stats@main
         with:
-          WITH_REPOS: false
-          WITH_STARED: false
+          SHOW_ALL_PR: true
       - name: Push README
         run: |
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
