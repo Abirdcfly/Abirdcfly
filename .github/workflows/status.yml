@@ -1,0 +1,31 @@
+name: GitHub README STATS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"
+  push:
+    branches:
+      - main
+
+env:
+  GITHUB_NAME: Abirdcfly
+  GITHUB_EMAIL: fp544037857@gmail.com
+  REPOS_NUM: 10
+  WITH_STARED: false
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: My GitHub Status
+        uses: yihong0618/github-readme-stats@main
+
+      - name: Push README
+        run: |
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
+          git config --local user.name "${{ env.GITHUB_NAME }}"
+          git commit -a -m 'docs: update readme.md' || echo "nothing to commit"
+          git push || echo "nothing to push"
