@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-💻 I am a member of kubernetes, a code contributor to several cncf projects, and a code contributor to golang/go ([Go Review Dashboard](https://go-review.googlesource.com/dashboard/56538))
+💻 I am a member of kubernetes, a code contributor to several cncf projects, and a code contributor to golang/go ([![](https://go-review.googlesource.com/favicon.ico)Go Review Dashboard](https://go-review.googlesource.com/dashboard/56538))
 
 😄 Pronouns: 彦祖
 
