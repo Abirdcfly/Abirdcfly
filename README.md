@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 💻 I am a member of kubernetes, a code contributor to several cncf projects, and a code contributor to golang/go ([Gerrit](https://go-review.googlesource.com/dashboard/56538))
 
-[![wakatime](https://wakatime.com/badge/user/6730e81c-ff31-4e87-acd9-9bd97b533dc1.svg?style=flat-square)](https://wakatime.com/badge/user/6730e81c-ff31-4e87-acd9-9bd97b533dc1.svg)
+[![wakatime](https://wakatime.com/badge/user/6730e81c-ff31-4e87-acd9-9bd97b533dc1.svg)](https://wakatime.com/badge/user/6730e81c-ff31-4e87-acd9-9bd97b533dc1.svg) ![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FAbirdcfly)
 
 
 😄 Pronouns: 彦祖
