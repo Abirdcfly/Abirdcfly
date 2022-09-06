@@ -37,7 +37,7 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          plugin_activity_skipped: Abirdcfly
+          plugin_activity_skipped: Abirdcfly/Abirdcfly
           plugin_activity_timestamps: yes
           plugin_activity_visibility: public
           plugin_notable: yes
@@ -45,6 +45,7 @@ jobs:
           plugin_notable_from: all
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-          plugin_notable_types: commit,pull_request,issue
+          #plugin_notable_types: commit,pull_request,issue
+          plugin_notable_types: commit
           repositories_forks: yes
-          repositories_skipped: Abirdcfly,wiki
+          repositories_skipped: Abirdcfly/Abirdcfly, Abirdcfly/wiki
