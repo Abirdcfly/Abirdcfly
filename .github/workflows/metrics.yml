@@ -27,25 +27,25 @@ jobs:
           # Options
           user: Abirdcfly
           template: classic
-          base: header, activity, community, repositories
-          base_indepth: yes
+          base: header, activity, community, repositories, metadata
+          config_display: large
           config_octicon: yes
           config_timezone: Asia/Shanghai
-          config_twemoji: yes
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          plugin_activity_skipped: Abirdcfly/Abirdcfly
-          plugin_activity_timestamps: yes
-          plugin_activity_visibility: public
-#          plugin_notable: yes
-#          # plugin_notable_filter: stars:>500 forks:>100 commits.user%:>5
-#          plugin_notable_from: all
-#          plugin_notable_indepth: yes
-#          plugin_notable_repositories: yes
-#          #plugin_notable_types: commit,pull_request,issue
-#          plugin_notable_types: commit
-          repositories_forks: yes
-          repositories_skipped: Abirdcfly/Abirdcfly, Abirdcfly/wiki, abirdcfly, wiki, Abirdcfly
+          plugin_activity_skipped: Abirdcfly,abirdcfly
+          plugin_activity_visibility: all
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_skipped: Abirdcfly, abirdcfly
+          plugin_notable_types: commit
+          repositories_skipped: Abirdcfly/Abirdcfly,Abirdcfly/wiki,Abirdcfly,wiki
