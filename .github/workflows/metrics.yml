@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "15 10 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -27,38 +27,23 @@ jobs:
           # Options
           user: Abirdcfly
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           base_indepth: yes
+          config_octicon: yes
           config_timezone: Asia/Shanghai
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: user
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          plugin_habits_trim: yes
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 8
-          plugin_languages_other: yes
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: recently-used
-          plugin_languages_skipped: Abirdcfly
-          plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: history
-          plugin_lines_skipped: Abirdcfly
+          config_twemoji: yes
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_timestamps: yes
+          plugin_activity_visibility: public
+          plugin_notable: yes
+          plugin_notable_filter: stars:>500 forks:>100 commits.user%:>5
+          plugin_notable_from: all
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_types: commit,pull_request, issue
           repositories_forks: yes
+          repositories_skipped: Abirdcfly,wiki
