@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 ⚡ I hope to contribute code to all the OSS (Open Source Software) I have used.
 
-![](https://github.com/Abirdcfly/Abirdcfly/assets/5100555/3b4f0b63-3043-449e-8cd5-e18ad34c5053)
+![wx:Abirdcfly](https://github.com/Abirdcfly/Abirdcfly/assets/5100555/7e625ee5-9797-4e94-8b72-d6e0c6342a15)
+
 
 ---
 
