@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 ---
 
+<!-- my-badges start -->
+<!-- my-badges end -->
+
+---
+
 <!--START_SECTION:my_github-->
 ## The repos I contributed to
 
