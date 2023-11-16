@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/Abirdcfly/dupword">Abirdcfly/dupword: ★12</a>
 * <a href="https://github.com/bestchains/fabric-operator">bestchains/fabric-operator: ★7</a>
 * <a href="https://github.com/kubebb/core">kubebb/core: ★6</a>
-* <a href="https://github.com/kubeagi/arcadia">kubeagi/arcadia: ★5</a>
+* <a href="https://github.com/kubeagi/arcadia">kubeagi/arcadia: ★6</a>
 * <a href="https://github.com/kubebb/components">kubebb/components: ★2</a>
 * <a href="https://github.com/bestchains/website">bestchains/website: ★2</a>
 * <a href="https://github.com/bestchains/HackTheAI">bestchains/HackTheAI: ★2</a>
