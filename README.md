@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;abirdcfly&quot;." title="My favorite word is &quot;abirdcfly&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/emoji-only-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
+<a href="my-badges/dead-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true" alt="I pushed a commit with &quot;dead&quot; 1 times." title="I pushed a commit with &quot;dead&quot; 1 times." width="64"></a>
 <!-- my-badges end -->
 
 ---
