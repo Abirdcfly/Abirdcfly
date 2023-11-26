@@ -12,6 +12,7 @@ Repos:
 * <a href="https://github.com/kubebb/core">kubebb/core: ★6</a>
 * <a href="https://github.com/kubebb/components">kubebb/components: ★2</a>
 * <a href="https://github.com/bestchains/website">bestchains/website: ★2</a>
+* <a href="https://github.com/bestchains/product-design">bestchains/product-design: ★2</a>
 * <a href="https://github.com/bestchains/HackTheAI">bestchains/HackTheAI: ★2</a>
 * <a href="https://github.com/bestchains/bc-saas">bestchains/bc-saas: ★1</a>
 * <a href="https://github.com/bestchains/bc-cli">bestchains/bc-cli: ★1</a>
