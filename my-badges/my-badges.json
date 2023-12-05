@@ -24,7 +24,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/b85565b9c4227c1d7caf111635192b1a5f47365a\">b85565b</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/95eb266e28119fe60ff344fc20e9fb5530d466cb\">95eb266</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/52988f2105d52cf0bdfcb303b99ea00160377cb3\">52988f2</a>\n- <a href=\"https://github.com/kubebb/core/commit/52988f2105d52cf0bdfcb303b99ea00160377cb3\">52988f2</a>\n- <a href=\"https://github.com/Abirdcfly/descheduler/commit/ca5781827a66f5c0912f4a31b6563dd82cf4bc0e\">ca57818</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/5a067a59726d3648b6a233bf543d7e6292c12cf9\">5a067a5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/b4d839d7e5805f615dabb221e1b1c45adc093d26\">b4d839d</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/b85565b9c4227c1d7caf111635192b1a5f47365a\">b85565b</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/95eb266e28119fe60ff344fc20e9fb5530d466cb\">95eb266</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/52988f2105d52cf0bdfcb303b99ea00160377cb3\">52988f2</a>\n- <a href=\"https://github.com/kubebb/core/commit/52988f2105d52cf0bdfcb303b99ea00160377cb3\">52988f2</a>\n- <a href=\"https://github.com/Abirdcfly/descheduler/commit/ca5781827a66f5c0912f4a31b6563dd82cf4bc0e\">ca57818</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1198 times)\n2. signed-off-by: (used 1194 times)\n3. <fp544037857@gmail.com> (used 1194 times)\n4. update (used 661 times)\n5. readme.md (used 540 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1202 times)\n2. signed-off-by: (used 1198 times)\n3. <fp544037857@gmail.com> (used 1198 times)\n4. update (used 664 times)\n5. readme.md (used 541 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
