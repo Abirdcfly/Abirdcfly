@@ -24,7 +24,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/e886f5485fa6e2a5b8ffef3d1191d1450208d97b\">e886f54</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/e886f5485fa6e2a5b8ffef3d1191d1450208d97b\">e886f54</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/b85565b9c4227c1d7caf111635192b1a5f47365a\">b85565b</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/95eb266e28119fe60ff344fc20e9fb5530d466cb\">95eb266</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/52988f2105d52cf0bdfcb303b99ea00160377cb3\">52988f2</a>\n- <a href=\"https://github.com/kubebb/core/commit/52988f2105d52cf0bdfcb303b99ea00160377cb3\">52988f2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/99ffbfbae08c7d3a6f2d87eaeb6feaf9ec89f11b\">99ffbfb</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/e886f5485fa6e2a5b8ffef3d1191d1450208d97b\">e886f54</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/e886f5485fa6e2a5b8ffef3d1191d1450208d97b\">e886f54</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/b85565b9c4227c1d7caf111635192b1a5f47365a\">b85565b</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/95eb266e28119fe60ff344fc20e9fb5530d466cb\">95eb266</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/52988f2105d52cf0bdfcb303b99ea00160377cb3\">52988f2</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1262 times)\n2. signed-off-by: (used 1258 times)\n3. <fp544037857@gmail.com> (used 1258 times)\n4. update (used 679 times)\n5. readme.md (used 551 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1266 times)\n2. signed-off-by: (used 1262 times)\n3. <fp544037857@gmail.com> (used 1262 times)\n4. update (used 680 times)\n5. readme.md (used 552 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
