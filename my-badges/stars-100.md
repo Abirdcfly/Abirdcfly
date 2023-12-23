@@ -21,6 +21,7 @@ Repos:
 * <a href="https://github.com/Abirdcfly/helm-oci-example">Abirdcfly/helm-oci-example: ★1</a>
 * <a href="https://github.com/Abirdcfly/goimportsduplicate">Abirdcfly/goimportsduplicate: ★1</a>
 * <a href="https://github.com/Abirdcfly/download_docker_image">Abirdcfly/download_docker_image: ★1</a>
+* <a href="https://github.com/Abirdcfly/acra">Abirdcfly/acra: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
