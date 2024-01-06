@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/Abirdcfly/xiaoe_download">Abirdcfly/xiaoe_download: ★60</a>
-* <a href="https://github.com/kubeagi/arcadia">kubeagi/arcadia: ★14</a>
+* <a href="https://github.com/kubeagi/arcadia">kubeagi/arcadia: ★16</a>
 * <a href="https://github.com/Abirdcfly/kindle-calibre-recipe">Abirdcfly/kindle-calibre-recipe: ★13</a>
 * <a href="https://github.com/Abirdcfly/dupword">Abirdcfly/dupword: ★12</a>
 * <a href="https://github.com/bestchains/fabric-operator">bestchains/fabric-operator: ★7</a>
