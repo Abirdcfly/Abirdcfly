@@ -108,14 +108,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1358 times)\n2. signed-off-by: (used 1354 times)\n3. <fp544037857@gmail.com> (used 1354 times)\n4. update (used 716 times)\n5. readme.md (used 578 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1358 times)\n2. signed-off-by: (used 1354 times)\n3. <fp544037857@gmail.com> (used 1354 times)\n4. update (used 717 times)\n5. readme.md (used 579 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/golang/go/issues/53968\">#53968</a>: cmd/vet: should check unreachable code﻿ after t.FailNow or related functions\n- <a href=\"https://github.com/soimort/you-get/issues/1228\">#1228</a>: [IQIYI]爱奇艺很多老视频不能下载.\n- <a href=\"https://github.com/kubernetes/website/issues/23481\">#23481</a>: It consists of 33 enhancements should be 43？\n- <a href=\"https://github.com/taosdata/TDengine/issues/4249\">#4249</a>: 集群模式，断电重启失败\n- <a href=\"https://github.com/kubeedge/kubeedge/issues/2420\">#2420</a>: add flag to skip download checksum\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/golang/go/issues/53968\">#53968</a>: cmd/vet: should check unreachable code﻿ after t.FailNow or related functions\n- <a href=\"https://github.com/kubeagi/arcadia/issues/541\">#541</a>: add golangcli-lint check for `pointers to enclosing loop variables`\n- <a href=\"https://github.com/soimort/you-get/issues/1228\">#1228</a>: [IQIYI]爱奇艺很多老视频不能下载.\n- <a href=\"https://github.com/kubernetes/website/issues/23481\">#23481</a>: It consists of 33 enhancements should be 43？\n- <a href=\"https://github.com/taosdata/TDengine/issues/4249\">#4249</a>: 集群模式，断电重启失败\n\n And many more...",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
   },
   {
