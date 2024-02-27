@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/Abirdcfly/langchaingo/commit/40d40ea18884e09f0108c420d2bbdeb8637a412f">40d40ea</a>
 - <a href="https://github.com/Abirdcfly/arcadia/commit/83e72f51c9d223db4c11df62268085084e920275">83e72f5</a>
 - <a href="https://github.com/kubeagi/arcadia/commit/83e72f51c9d223db4c11df62268085084e920275">83e72f5</a>
 - <a href="https://github.com/Abirdcfly/arcadia/commit/3dd25d3e965244051f75f0363acc99f1fe9c6fd2">3dd25d3</a>
 - <a href="https://github.com/kubeagi/arcadia/commit/3dd25d3e965244051f75f0363acc99f1fe9c6fd2">3dd25d3</a>
 - <a href="https://github.com/Abirdcfly/arcadia/commit/ba3936997ca89ea2b67334c4f3738954aea6ec53">ba39369</a>
-- <a href="https://github.com/kubeagi/arcadia/commit/ba3936997ca89ea2b67334c4f3738954aea6ec53">ba39369</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
