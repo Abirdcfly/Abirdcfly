@@ -10,8 +10,8 @@ Repos:
 * <a href="https://github.com/Abirdcfly/dupword">Abirdcfly/dupword: ★12</a>
 * <a href="https://github.com/kubebb/core">kubebb/core: ★7</a>
 * <a href="https://github.com/bestchains/fabric-operator">bestchains/fabric-operator: ★7</a>
-* <a href="https://github.com/kubeagi/ops-console">kubeagi/ops-console: ★4</a>
-* <a href="https://github.com/kubebb/components">kubebb/components: ★3</a>
+* <a href="https://github.com/kubeagi/ops-console">kubeagi/ops-console: ★5</a>
+* <a href="https://github.com/kubebb/components">kubebb/components: ★4</a>
 * <a href="https://github.com/bestchains/website">bestchains/website: ★2</a>
 * <a href="https://github.com/bestchains/product-design">bestchains/product-design: ★2</a>
 * <a href="https://github.com/bestchains/HackTheAI">bestchains/HackTheAI: ★2</a>
