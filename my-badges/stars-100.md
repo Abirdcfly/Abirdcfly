@@ -18,6 +18,7 @@ Repos:
 * <a href="https://github.com/bestchains/bc-saas">bestchains/bc-saas: ★1</a>
 * <a href="https://github.com/bestchains/bc-cli">bestchains/bc-cli: ★1</a>
 * <a href="https://github.com/Abirdcfly/test-infra">Abirdcfly/test-infra: ★1</a>
+* <a href="https://github.com/Abirdcfly/pyexample">Abirdcfly/pyexample: ★1</a>
 * <a href="https://github.com/Abirdcfly/langchaingo-google-stream-exit-early">Abirdcfly/langchaingo-google-stream-exit-early: ★1</a>
 * <a href="https://github.com/Abirdcfly/kubernetes">Abirdcfly/kubernetes: ★1</a>
 * <a href="https://github.com/Abirdcfly/helm-oci-example">Abirdcfly/helm-oci-example: ★1</a>
