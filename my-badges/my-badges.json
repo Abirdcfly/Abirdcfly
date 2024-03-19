@@ -17,14 +17,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/affaa87bdd6fad7584f0aa48a278e48d3d4d4cce\">affaa87</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/affaa87bdd6fad7584f0aa48a278e48d3d4d4cce\">affaa87</a>\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/1ee33af9af6490a0d32e3dc5f657162b43badc89\">1ee33af</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/1ee33af9af6490a0d32e3dc5f657162b43badc89\">1ee33af</a>\n- <a href=\"https://github.com/Abirdcfly/pipeline-1/commit/f81adbf2d99cd9cbab0b223891cc5e5207164674\">f81adbf</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/f5b3406a9cd16fc5af12491ca5dd2813de485fe5\">f5b3406</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/34782fcd051194daa6e414c9f56aaa1d9bfd55ff\">34782fc</a>\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/affaa87bdd6fad7584f0aa48a278e48d3d4d4cce\">affaa87</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/affaa87bdd6fad7584f0aa48a278e48d3d4d4cce\">affaa87</a>\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/1ee33af9af6490a0d32e3dc5f657162b43badc89\">1ee33af</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/1ee33af9af6490a0d32e3dc5f657162b43badc89\">1ee33af</a>\n- <a href=\"https://github.com/Abirdcfly/pipeline-1/commit/f81adbf2d99cd9cbab0b223891cc5e5207164674\">f81adbf</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/3a5a1c0cbec56a6466184d66db9de542229238bd\">3a5a1c0</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/d2acddfea603cb0469f38013f8321d67424fba23\">d2acddf</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/3a5a1c0cbec56a6466184d66db9de542229238bd\">3a5a1c0</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/d2acddfea603cb0469f38013f8321d67424fba23\">d2acddf</a>\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/17002cc7257958136cf4b674480d107011ea9121\">17002cc</a>\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/40d40ea18884e09f0108c420d2bbdeb8637a412f\">40d40ea</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/a0d35cb97dbd184b2859c38d21910cbd1ed94269\">a0d35cb</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/a0d35cb97dbd184b2859c38d21910cbd1ed94269\">a0d35cb</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/3a5a1c0cbec56a6466184d66db9de542229238bd\">3a5a1c0</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/d2acddfea603cb0469f38013f8321d67424fba23\">d2acddf</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/3a5a1c0cbec56a6466184d66db9de542229238bd\">3a5a1c0</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/d2acddfea603cb0469f38013f8321d67424fba23\">d2acddf</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1554 times)\n2. signed-off-by: (used 1550 times)\n3. <fp544037857@gmail.com> (used 1550 times)\n4. update (used 800 times)\n5. readme.md (used 645 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1566 times)\n2. signed-off-by: (used 1562 times)\n3. <fp544037857@gmail.com> (used 1562 times)\n4. update (used 801 times)\n5. readme.md (used 646 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
