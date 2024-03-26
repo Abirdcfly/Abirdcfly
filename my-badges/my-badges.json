@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1602 times)\n2. signed-off-by: (used 1598 times)\n3. <fp544037857@gmail.com> (used 1598 times)\n4. update (used 807 times)\n5. readme.md (used 652 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1602 times)\n2. signed-off-by: (used 1598 times)\n3. <fp544037857@gmail.com> (used 1598 times)\n4. update (used 808 times)\n5. readme.md (used 653 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -152,5 +152,12 @@
     "desc": "I am a sleepy coder.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/fabric-operator/commit/1cc98adbeb068acc9bd2f1be4d1547d7c368f9a7\">1cc98ad</a>\n- <a href=\"https://github.com/bjwswang/fabric-operator/commit/1cc98adbeb068acc9bd2f1be4d1547d7c368f9a7\">1cc98ad</a>\n- <a href=\"https://github.com/bestchains/fabric-operator/commit/1cc98adbeb068acc9bd2f1be4d1547d7c368f9a7\">1cc98ad</a>\n- <a href=\"https://github.com/Abirdcfly/go-1/commit/48da729e8468b630ee003ac51cbaac595d53bec8\">48da729</a>\n- <a href=\"https://github.com/Abirdcfly/go-1/commit/64f2829c9cdf12b893068305b2451c81b0a5b3a6\">64f2829</a>\n- <a href=\"https://github.com/Abirdcfly/dotfiles/commit/8f10bb66bc235d6c0e5260b3bf73d5aa28e9f049\">8f10bb6</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/go-ethereum/commit/39900be087049f0cdcf4142e22e134bff5d622fd\">39900be</a>\n- <a href=\"https://github.com/Abirdcfly/Leetcode/commit/a1b597cf03d6e980a990b19a9525ff3e5df3a2e4\">a1b597c</a>\n- <a href=\"https://github.com/Abirdcfly/Leetcode/commit/e207ba943ef2851474dac1e56f8e94ed814f3fab\">e207ba9</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
   }
 ]
