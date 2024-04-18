@@ -22,6 +22,7 @@ Repos:
 * <a href="https://github.com/Abirdcfly/kubernetes">Abirdcfly/kubernetes: ★1</a>
 * <a href="https://github.com/Abirdcfly/helm-oci-example">Abirdcfly/helm-oci-example: ★1</a>
 * <a href="https://github.com/Abirdcfly/goimportsduplicate">Abirdcfly/goimportsduplicate: ★1</a>
+* <a href="https://github.com/Abirdcfly/FreeGPT35-Vercel">Abirdcfly/FreeGPT35-Vercel: ★1</a>
 * <a href="https://github.com/Abirdcfly/download_docker_image">Abirdcfly/download_docker_image: ★1</a>
 * <a href="https://github.com/Abirdcfly/acra">Abirdcfly/acra: ★1</a>
 
