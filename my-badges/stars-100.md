@@ -14,6 +14,7 @@ Repos:
 * <a href="https://github.com/bestchains/website">bestchains/website: ★2</a>
 * <a href="https://github.com/bestchains/product-design">bestchains/product-design: ★2</a>
 * <a href="https://github.com/bestchains/HackTheAI">bestchains/HackTheAI: ★2</a>
+* <a href="https://github.com/Abirdcfly/FreeGPT35-Vercel">Abirdcfly/FreeGPT35-Vercel: ★2</a>
 * <a href="https://github.com/bestchains/bc-saas">bestchains/bc-saas: ★1</a>
 * <a href="https://github.com/bestchains/bc-cli">bestchains/bc-cli: ★1</a>
 * <a href="https://github.com/Abirdcfly/test-infra">Abirdcfly/test-infra: ★1</a>
@@ -22,7 +23,6 @@ Repos:
 * <a href="https://github.com/Abirdcfly/kubernetes">Abirdcfly/kubernetes: ★1</a>
 * <a href="https://github.com/Abirdcfly/helm-oci-example">Abirdcfly/helm-oci-example: ★1</a>
 * <a href="https://github.com/Abirdcfly/goimportsduplicate">Abirdcfly/goimportsduplicate: ★1</a>
-* <a href="https://github.com/Abirdcfly/FreeGPT35-Vercel">Abirdcfly/FreeGPT35-Vercel: ★1</a>
 * <a href="https://github.com/Abirdcfly/download_docker_image">Abirdcfly/download_docker_image: ★1</a>
 * <a href="https://github.com/Abirdcfly/acra">Abirdcfly/acra: ★1</a>
 
