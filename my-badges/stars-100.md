@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/kubeagi/arcadia">kubeagi/arcadia: ★55</a>
+* <a href="https://github.com/kubeagi/arcadia">kubeagi/arcadia: ★56</a>
 * <a href="https://github.com/Abirdcfly/kindle-calibre-recipe">Abirdcfly/kindle-calibre-recipe: ★13</a>
 * <a href="https://github.com/Abirdcfly/dupword">Abirdcfly/dupword: ★12</a>
 * <a href="https://github.com/kubebb/core">kubebb/core: ★8</a>
