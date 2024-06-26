@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/kubeagi/arcadia">kubeagi/arcadia: ★61</a>
 * <a href="https://github.com/Abirdcfly/kindle-calibre-recipe">Abirdcfly/kindle-calibre-recipe: ★13</a>
-* <a href="https://github.com/Abirdcfly/dupword">Abirdcfly/dupword: ★12</a>
+* <a href="https://github.com/Abirdcfly/dupword">Abirdcfly/dupword: ★13</a>
 * <a href="https://github.com/kubebb/core">kubebb/core: ★8</a>
 * <a href="https://github.com/bestchains/fabric-operator">bestchains/fabric-operator: ★6</a>
 * <a href="https://github.com/kubeagi/ops-console">kubeagi/ops-console: ★5</a>
