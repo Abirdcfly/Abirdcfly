@@ -8,8 +8,8 @@ Repos:
 * <a href="https://github.com/Abirdcfly/kindle-calibre-recipe">Abirdcfly/kindle-calibre-recipe: ★13</a>
 * <a href="https://github.com/Abirdcfly/dupword">Abirdcfly/dupword: ★13</a>
 * <a href="https://github.com/kubebb/core">kubebb/core: ★8</a>
+* <a href="https://github.com/kubeagi/ops-console">kubeagi/ops-console: ★6</a>
 * <a href="https://github.com/bestchains/fabric-operator">bestchains/fabric-operator: ★6</a>
-* <a href="https://github.com/kubeagi/ops-console">kubeagi/ops-console: ★5</a>
 * <a href="https://github.com/kubebb/components">kubebb/components: ★4</a>
 * <a href="https://github.com/bestchains/website">bestchains/website: ★2</a>
 * <a href="https://github.com/bestchains/product-design">bestchains/product-design: ★2</a>
