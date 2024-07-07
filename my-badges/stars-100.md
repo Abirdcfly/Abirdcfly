@@ -1,10 +1,10 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/badges/stars/stars-100.png?raw=true" alt="I collected 100 stars." title="I collected 100 stars." width="128">
+<img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="128">
 <strong>I collected 100 stars.</strong>
 <br><br>
 
 Repos:
 
-* <a href="https://github.com/kubeagi/arcadia">kubeagi/arcadia: ★63</a>
+* <a href="https://github.com/Abirdcfly/xiaoe_download">Abirdcfly/xiaoe_download: ★64</a>
 * <a href="https://github.com/Abirdcfly/kindle-calibre-recipe">Abirdcfly/kindle-calibre-recipe: ★13</a>
 * <a href="https://github.com/Abirdcfly/dupword">Abirdcfly/dupword: ★13</a>
 * <a href="https://github.com/kubebb/core">kubebb/core: ★8</a>
