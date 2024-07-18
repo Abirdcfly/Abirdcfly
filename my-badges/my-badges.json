@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1650 times)\n2. signed-off-by: (used 1646 times)\n3. <fp544037857@gmail.com> (used 1646 times)\n4. update (used 928 times)\n5. readme.md (used 766 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1650 times)\n2. signed-off-by: (used 1646 times)\n3. <fp544037857@gmail.com> (used 1646 times)\n4. update (used 928 times)\n5. readme.md (used 767 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/go-ethereum/commit/39900be087049f0cdcf4142e22e134bff5d622fd\">39900be</a>\n- <a href=\"https://github.com/Abirdcfly/Leetcode/commit/a1b597cf03d6e980a990b19a9525ff3e5df3a2e4\">a1b597c</a>\n- <a href=\"https://github.com/Abirdcfly/Leetcode/commit/e207ba943ef2851474dac1e56f8e94ed814f3fab\">e207ba9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/go-ethereum/commit/39900be087049f0cdcf4142e22e134bff5d622fd\">39900be</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
