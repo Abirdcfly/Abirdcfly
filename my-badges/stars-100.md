@@ -15,6 +15,7 @@ Repos:
 * <a href="https://github.com/bestchains/product-design">bestchains/product-design: ★2</a>
 * <a href="https://github.com/bestchains/HackTheAI">bestchains/HackTheAI: ★2</a>
 * <a href="https://github.com/Abirdcfly/FreeGPT35-Vercel">Abirdcfly/FreeGPT35-Vercel: ★2</a>
+* <a href="https://github.com/bjwswang/fabric-operator">bjwswang/fabric-operator: ★1</a>
 * <a href="https://github.com/bestchains/bc-saas">bestchains/bc-saas: ★1</a>
 * <a href="https://github.com/bestchains/bc-cli">bestchains/bc-cli: ★1</a>
 * <a href="https://github.com/Abirdcfly/test-infra">Abirdcfly/test-infra: ★1</a>
