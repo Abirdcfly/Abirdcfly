@@ -49,11 +49,11 @@
     "image": "https://my-badges.github.io/my-badges/star-gazer.png"
   },
   {
-    "id": "mass-delete-commit",
-    "tier": 1,
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/2dde5e344d92dd259ae9ab45fe121064feec3aa2\">2dde5e3</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/dupword/commit/4aeff1f3a92447e6f2153f6018d0d4be1f7b5189\">4aeff1f</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "fix-6",
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1652 times)\n2. signed-off-by: (used 1648 times)\n3. <fp544037857@gmail.com> (used 1648 times)\n4. update (used 1012 times)\n5. readme.md (used 849 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1656 times)\n2. signed-off-by: (used 1652 times)\n3. <fp544037857@gmail.com> (used 1652 times)\n4. update (used 1014 times)\n5. readme.md (used 850 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
