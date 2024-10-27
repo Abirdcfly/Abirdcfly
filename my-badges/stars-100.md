@@ -11,11 +11,11 @@ Repos:
 * <a href="https://github.com/kubeagi/ops-console">kubeagi/ops-console: ★8</a>
 * <a href="https://github.com/bestchains/fabric-operator">bestchains/fabric-operator: ★6</a>
 * <a href="https://github.com/kubebb/components">kubebb/components: ★4</a>
-* <a href="https://github.com/bjwswang/fabric-operator">bjwswang/fabric-operator: ★2</a>
 * <a href="https://github.com/bestchains/website">bestchains/website: ★2</a>
 * <a href="https://github.com/bestchains/product-design">bestchains/product-design: ★2</a>
 * <a href="https://github.com/bestchains/HackTheAI">bestchains/HackTheAI: ★2</a>
 * <a href="https://github.com/Abirdcfly/FreeGPT35-Vercel">Abirdcfly/FreeGPT35-Vercel: ★2</a>
+* <a href="https://github.com/bjwswang/fabric-operator">bjwswang/fabric-operator: ★1</a>
 * <a href="https://github.com/bestchains/bc-saas">bestchains/bc-saas: ★1</a>
 * <a href="https://github.com/bestchains/bc-cli">bestchains/bc-cli: ★1</a>
 * <a href="https://github.com/Abirdcfly/test-infra">Abirdcfly/test-infra: ★1</a>
