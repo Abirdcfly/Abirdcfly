@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1664 times)\n2. signed-off-by: (used 1660 times)\n3. <fp544037857@gmail.com> (used 1660 times)\n4. update (used 1064 times)\n5. readme.md (used 900 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1664 times)\n2. signed-off-by: (used 1660 times)\n3. <fp544037857@gmail.com> (used 1660 times)\n4. update (used 1065 times)\n5. readme.md (used 901 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -173,5 +173,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/93da1cf9d8829e28ad1a278c78c8d60ac7f91ecb\">93da1cf</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/c28972ad0a73565856cbbad3fe9412d9acd9ddbb\">c28972a</a>\n- <a href=\"https://github.com/kubebb/core/commit/c28972ad0a73565856cbbad3fe9412d9acd9ddbb\">c28972a</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/2aa61cada1b7a2d135cb20bbd99cc03c9af05f8a\">2aa61ca</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/784244b7d853190fd75f63deba729ddf2f5fdf46\">784244b</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "thumbs-up",
+    "tier": 0,
+    "desc": "I have received a lot of thumbs up 👍 reactions!",
+    "body": "- [12 thumbs ups](https://github.com/actions/upload-artifact/issues/389)\n- [7 thumbs ups](https://github.com/kubeedge/kubeedge/issues/2677)\n- [6 thumbs ups](https://github.com/actions/gh-actions-cache/issues/77#issuecomment-1686014414)\n- [4 thumbs ups](https://github.com/tektoncd/operator/issues/1330)\n- [3 thumbs ups](https://github.com/swaggo/swag/issues/828)\n- [3 thumbs ups](https://github.com/docker/for-mac/issues/6803#issuecomment-1512383796)\n- [3 thumbs ups](https://github.com/kubebb/core/issues/194#issuecomment-1661665288)\n- [3 thumbs ups](https://github.com/kubebb/core/pull/197#issuecomment-1661904796)\n- [2 thumbs ups](https://github.com/kubeagi/arcadia/issues/413)\n- [2 thumbs ups](https://github.com/kubeedge/kubeedge/pull/2660)",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
   }
 ]
