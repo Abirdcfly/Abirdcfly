@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1664 times)\n2. signed-off-by: (used 1660 times)\n3. <fp544037857@gmail.com> (used 1660 times)\n4. update (used 1067 times)\n5. readme.md (used 903 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1664 times)\n2. signed-off-by: (used 1660 times)\n3. <fp544037857@gmail.com> (used 1660 times)\n4. update (used 1068 times)\n5. readme.md (used 904 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -180,5 +180,12 @@
     "desc": "I have received a lot of thumbs up 👍 reactions!",
     "body": "- [12 thumbs ups](https://github.com/actions/upload-artifact/issues/389)\n- [7 thumbs ups](https://github.com/kubeedge/kubeedge/issues/2677)\n- [6 thumbs ups](https://github.com/actions/gh-actions-cache/issues/77#issuecomment-1686014414)\n- [4 thumbs ups](https://github.com/tektoncd/operator/issues/1330)\n- [3 thumbs ups](https://github.com/swaggo/swag/issues/828)\n- [3 thumbs ups](https://github.com/docker/for-mac/issues/6803#issuecomment-1512383796)\n- [3 thumbs ups](https://github.com/kubebb/core/issues/194#issuecomment-1661665288)\n- [3 thumbs ups](https://github.com/kubebb/core/pull/197#issuecomment-1661904796)\n- [2 thumbs ups](https://github.com/kubeagi/arcadia/issues/413)\n- [2 thumbs ups](https://github.com/kubeedge/kubeedge/pull/2660)",
     "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/actions/upload-artifact/issues/389\">12 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
