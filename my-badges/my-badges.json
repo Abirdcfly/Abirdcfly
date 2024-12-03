@@ -3,21 +3,21 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/bjwswang/fabric-operator/commit/ab570b93b996711bd3d78361e04987d800a6bab0\"><strong>ab</strong>570b93b996711bd3d78361e04987d800a6bab0</a>",
+    "body": "- <a href=\"https://github.com/bestchains/fabric-operator/commit/ab570b93b996711bd3d78361e04987d800a6bab0\"><strong>ab</strong>570b93b996711bd3d78361e04987d800a6bab0</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/Abirdcfly/xiaoe_download\">Abirdcfly/xiaoe_download: ★64</a>\n* <a href=\"https://github.com/Abirdcfly/kindle-calibre-recipe\">Abirdcfly/kindle-calibre-recipe: ★13</a>\n* <a href=\"https://github.com/Abirdcfly/dupword\">Abirdcfly/dupword: ★13</a>\n* <a href=\"https://github.com/kubebb/core\">kubebb/core: ★8</a>\n* <a href=\"https://github.com/kubeagi/ops-console\">kubeagi/ops-console: ★8</a>\n* <a href=\"https://github.com/bestchains/fabric-operator\">bestchains/fabric-operator: ★6</a>\n* <a href=\"https://github.com/kubebb/components\">kubebb/components: ★4</a>\n* <a href=\"https://github.com/bestchains/website\">bestchains/website: ★2</a>\n* <a href=\"https://github.com/bestchains/product-design\">bestchains/product-design: ★2</a>\n* <a href=\"https://github.com/bestchains/HackTheAI\">bestchains/HackTheAI: ★2</a>\n* <a href=\"https://github.com/Abirdcfly/FreeGPT35-Vercel\">Abirdcfly/FreeGPT35-Vercel: ★2</a>\n* <a href=\"https://github.com/bjwswang/fabric-operator\">bjwswang/fabric-operator: ★1</a>\n* <a href=\"https://github.com/bestchains/bc-saas\">bestchains/bc-saas: ★1</a>\n* <a href=\"https://github.com/bestchains/bc-cli\">bestchains/bc-cli: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/test-infra\">Abirdcfly/test-infra: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/pyexample\">Abirdcfly/pyexample: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/langchaingo-google-stream-exit-early\">Abirdcfly/langchaingo-google-stream-exit-early: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/kubernetes\">Abirdcfly/kubernetes: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/helm-oci-example\">Abirdcfly/helm-oci-example: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/goimportsduplicate\">Abirdcfly/goimportsduplicate: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/download_docker_image\">Abirdcfly/download_docker_image: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/acra\">Abirdcfly/acra: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/kubeagi/arcadia\">kubeagi/arcadia: ★86</a>\n* <a href=\"https://github.com/Abirdcfly/dupword\">Abirdcfly/dupword: ★13</a>\n* <a href=\"https://github.com/kubebb/core\">kubebb/core: ★8</a>\n* <a href=\"https://github.com/kubeagi/ops-console\">kubeagi/ops-console: ★8</a>\n* <a href=\"https://github.com/bestchains/fabric-operator\">bestchains/fabric-operator: ★6</a>\n* <a href=\"https://github.com/kubebb/components\">kubebb/components: ★4</a>\n* <a href=\"https://github.com/bestchains/product-design\">bestchains/product-design: ★2</a>\n* <a href=\"https://github.com/bestchains/website\">bestchains/website: ★2</a>\n* <a href=\"https://github.com/bestchains/HackTheAI\">bestchains/HackTheAI: ★2</a>\n* <a href=\"https://github.com/Abirdcfly/FreeGPT35-Vercel\">Abirdcfly/FreeGPT35-Vercel: ★2</a>\n* <a href=\"https://github.com/Abirdcfly/acra\">Abirdcfly/acra: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/download_docker_image\">Abirdcfly/download_docker_image: ★1</a>\n* <a href=\"https://github.com/bjwswang/fabric-operator\">bjwswang/fabric-operator: ★1</a>\n* <a href=\"https://github.com/bestchains/bc-saas\">bestchains/bc-saas: ★1</a>\n* <a href=\"https://github.com/bestchains/bc-cli\">bestchains/bc-cli: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/helm-oci-example\">Abirdcfly/helm-oci-example: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/langchaingo-google-stream-exit-early\">Abirdcfly/langchaingo-google-stream-exit-early: ★1</a>\n* <a href=\"https://github.com/Abirdcfly/pyexample\">Abirdcfly/pyexample: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/affaa87bdd6fad7584f0aa48a278e48d3d4d4cce\">affaa87</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/affaa87bdd6fad7584f0aa48a278e48d3d4d4cce\">affaa87</a>\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/1ee33af9af6490a0d32e3dc5f657162b43badc89\">1ee33af</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/1ee33af9af6490a0d32e3dc5f657162b43badc89\">1ee33af</a>\n- <a href=\"https://github.com/Abirdcfly/pipeline-1/commit/f81adbf2d99cd9cbab0b223891cc5e5207164674\">f81adbf</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/f5b3406a9cd16fc5af12491ca5dd2813de485fe5\">f5b3406</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/affaa87bdd6fad7584f0aa48a278e48d3d4d4cce\">affaa87</a>\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/affaa87bdd6fad7584f0aa48a278e48d3d4d4cce\">affaa87</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/1ee33af9af6490a0d32e3dc5f657162b43badc89\">1ee33af</a>\n- <a href=\"https://github.com/Abirdcfly/langchaingo/commit/1ee33af9af6490a0d32e3dc5f657162b43badc89\">1ee33af</a>\n- <a href=\"https://github.com/Abirdcfly/pipeline-1/commit/f81adbf2d99cd9cbab0b223891cc5e5207164674\">f81adbf</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/2699be2f13188bda45a798b18b40afd4d213b318\">2699be2</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/2699be2f13188bda45a798b18b40afd4d213b318\">2699be2</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/602efc09340aaa5bab550697ca559608b328063c\">602efc0</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/602efc09340aaa5bab550697ca559608b328063c\">602efc0</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/4597c6394ec5de50e404ca1bed6547b012f135db\">4597c63</a>\n- <a href=\"https://github.com/Abirdcfly/k3s/commit/387139da6e0fd176adb90aacb25d63062a537af8\">387139d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/2699be2f13188bda45a798b18b40afd4d213b318\">2699be2</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/2699be2f13188bda45a798b18b40afd4d213b318\">2699be2</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/602efc09340aaa5bab550697ca559608b328063c\">602efc0</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/602efc09340aaa5bab550697ca559608b328063c\">602efc0</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -66,15 +66,8 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arbiter/commit/9491d9dd695dcfaf6d545755e883569de7714dee\">9491d9d</a>: chore: move metrics-server to independent ns\n\nSigned-off-by: Abirdcfly <fp544037857@gmail.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/aa8009e9c903f27df6c53a2912ca6f308c460d86\">aa8009e</a>: chore: update some default value\n\nSigned-off-by: Abirdcfly <fp544037857@gmail.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/b355bf4ec70e70e3c14d283b19688f4c04bc00d2\">b355bf4</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/14f836224344d88757af242d00b0638f7b924305\">14f8362</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/956a49d5fab72bc6bbcbb8d82d341548ab0a3146\">956a49d</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
     "id": "covid-19",
@@ -98,17 +91,10 @@
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   },
   {
-    "id": "old-issue-5",
-    "tier": 5,
-    "desc": "I closed an issue that was open for 5 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/Still-not-satisfied-projects/flask-ckeditor-demo/issues/1\">#1</a>: 哥们，删掉static\\upload好了 = = ",
-    "image": "https://my-badges.github.io/my-badges/old-issue-5.png"
-  },
-  {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1664 times)\n2. signed-off-by: (used 1660 times)\n3. <fp544037857@gmail.com> (used 1660 times)\n4. update (used 1068 times)\n5. readme.md (used 904 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1527 times)\n2. signed-off-by: (used 1524 times)\n3. <fp544037857@gmail.com> (used 1524 times)\n4. to (used 364 times)\n5. add (used 339 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -117,20 +103,6 @@
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/golang/go/issues/53968\">#53968</a>: cmd/vet: should check unreachable code﻿ after t.FailNow or related functions\n- <a href=\"https://github.com/kubeagi/core-library/issues/56\">#56</a>: cant use bge-reranker-large in cpu mode\n- <a href=\"https://github.com/soimort/you-get/issues/1228\">#1228</a>: [IQIYI]爱奇艺很多老视频不能下载.\n- <a href=\"https://github.com/kubernetes/website/issues/23481\">#23481</a>: It consists of 33 enhancements should be 43？\n- <a href=\"https://github.com/taosdata/TDengine/issues/4249\">#4249</a>: 集群模式，断电重启失败\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
-  },
-  {
-    "id": "emoji-only-commit",
-    "tier": 0,
-    "desc": "I used only emojis in my commit message.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/npm-show/commit/83fe303e4ea17a47ac542ac13a4f617ca4bcca6f\">83fe303</a>: 6\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/e66e1ab4a854b362ab0635efedf4941b7d9f6129\">e66e1ab</a>: 1411\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/40bc4b59da55dd69783677bf5d753153bf964b1c\">40bc4b5</a>: 1405\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/892f8d43b12727deccb50638f3b07b255c7af0dd\">892f8d4</a>: 1404\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/e55be3dc402340666173fce1ccc187df9a59fe52\">e55be3d</a>: 1359\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/125a31b2feef7ae5a4e0a0111c0482e9c415e331\">125a31b</a>: 1355\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/aca3668100c19caedcb8c784d5ec4a40a135d4a9\">aca3668</a>: 1351\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/a1c17ad21eafc9ec2281bf33f2d91bbec1475379\">a1c17ad</a>: 1350\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/1bb8d120db1eb7a345660dfde452fb402eee0c14\">1bb8d12</a>: 1343\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/ff569fdf7f399dc4ddca450f6f6e4bee2c10ef42\">ff569fd</a>: 1337\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/1091084cdd9f2e38938b06f1f2d85e884626a6d5\">1091084</a>: 1333\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/8c18927f1a18b5e7e91ef2e3201439b3bb8f0762\">8c18927</a>: 1329\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/21b9ce133f540cd4276efc2d72c15e59985cd16b\">21b9ce1</a>: 1305\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/967fe57523363490d60d84e14300848e9a48aafe\">967fe57</a>: 1300\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/4928020a38c2ebd87a2647cffa338ed4bb692425\">4928020</a>: 1257\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/67f561268be0253c5130461d876ecc5d893fc635\">67f5612</a>: 1252\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/55767dfe9f059135fb3ed576838ca25984781da2\">55767df</a>: 1246\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/a094c255c6be9f80c81a4cf7ada8690be31582b1\">a094c25</a>: 1230\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/d76894227aa211a89e6795a4a19e318a18089b1d\">d768942</a>: 1225\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/6043fcbcb40a6f29fbb4830ff4ab8b5a025f0aa2\">6043fcb</a>: 1131\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/90f8f82a6763343cc57ab509e12502e963d40e7c\">90f8f82</a>: 1123\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/008ecb63a6558dd68fd4ffb1400422075d143b15\">008ecb6</a>: 1055\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/b5be713953742d58d8ce79dbfad6c4aa2f5d1ebf\">b5be713</a>: 1739\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/c5fe4e29f5d9de9e40edf7c0e7b8c6793c7e9541\">c5fe4e2</a>: 1727\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/d3b487bc1067a4214e7dfb905f9a77ad115c6061\">d3b487b</a>: 1711\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/a4dc65c42c60f367a771471c1f09789e195fe1e2\">a4dc65c</a>: 1631\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/99d153d7020acfa5a106d24122c45611aa072f03\">99d153d</a>: 1614\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/8a1795be8b9c26d2c0b9535d7e4a38bb5c14602f\">8a1795b</a>: 1611\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/1dae10c4dd068658effd13c3f1cd633434ccd314\">1dae10c</a>: 1557\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/70f1a5a03ffd3192ca8316a7857fc989cfeed018\">70f1a5a</a>: 1557\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/b22fcf05380e21b7274c22c526b3d78cd01ab040\">b22fcf0</a>: 1550\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/4385adff64e2fee70babe723f13ea830e0adc366\">4385adf</a>: 1543\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/4acfd6c5e3675417aa29e6c93222ee58a8a1b1e4\">4acfd6c</a>: 1539\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/c9a581ee68eb009ba07d46913e5f5c0db9b4437d\">c9a581e</a>: 1535\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/33d3ed06cbdd5b6c542e64965a9cb83a4a688719\">33d3ed0</a>: 1533",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true"
-  },
-  {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" once.",
-    "body": "- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/800af1828bf34a32d45dead64fdb8dd01a8ca10d\">800af1828bf34a32d45<strong>dead</strong>64fdb8dd01a8ca10d</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "the-ultimate-question",
@@ -150,42 +122,42 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/fabric-operator/commit/1cc98adbeb068acc9bd2f1be4d1547d7c368f9a7\">1cc98ad</a>\n- <a href=\"https://github.com/bjwswang/fabric-operator/commit/1cc98adbeb068acc9bd2f1be4d1547d7c368f9a7\">1cc98ad</a>\n- <a href=\"https://github.com/bestchains/fabric-operator/commit/1cc98adbeb068acc9bd2f1be4d1547d7c368f9a7\">1cc98ad</a>\n- <a href=\"https://github.com/Abirdcfly/go-1/commit/48da729e8468b630ee003ac51cbaac595d53bec8\">48da729</a>\n- <a href=\"https://github.com/Abirdcfly/go-1/commit/64f2829c9cdf12b893068305b2451c81b0a5b3a6\">64f2829</a>\n- <a href=\"https://github.com/Abirdcfly/dotfiles/commit/8f10bb66bc235d6c0e5260b3bf73d5aa28e9f049\">8f10bb6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/fabric-operator/commit/1cc98adbeb068acc9bd2f1be4d1547d7c368f9a7\">1cc98ad</a>\n- <a href=\"https://github.com/bjwswang/fabric-operator/commit/1cc98adbeb068acc9bd2f1be4d1547d7c368f9a7\">1cc98ad</a>\n- <a href=\"https://github.com/bestchains/fabric-operator/commit/1cc98adbeb068acc9bd2f1be4d1547d7c368f9a7\">1cc98ad</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "cosmetic-commit",
-    "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/go-ethereum/commit/39900be087049f0cdcf4142e22e134bff5d622fd\">39900be</a>\n- <a href=\"https://github.com/Abirdcfly/Leetcode/commit/a1b597cf03d6e980a990b19a9525ff3e5df3a2e4\">a1b597c</a>\n- <a href=\"https://github.com/Abirdcfly/Leetcode/commit/e207ba943ef2851474dac1e56f8e94ed814f3fab\">e207ba9</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/1282bfaa948b3b2bcb5fa4c834ce6b66f5e41c4d\">1282bfa</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/7156ee803278289965c573138cbe66d297caecb6\">7156ee8</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/1ae5ff1600393d0fa425822bb10d2ff75d9c0d24\">1ae5ff1</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/9a4932e807ee889746387954e092ad6b239077d0\">9a4932e</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/2699be2f13188bda45a798b18b40afd4d213b318\">2699be2</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/fef366a2f4d8313e02a7f2271c1da41c4f03f2f0\">fef366a</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/60ff8ffd905414a7b07afe777c6e4019486e87a6\">60ff8ff</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/6c95f5a5a79ac60a8b230b5b37b227cb3b0de749\">6c95f5a</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/43cfe63a63943a115155db55fdd701855551b117\">43cfe63</a>\n- <a href=\"https://github.com/Abirdcfly/fabric-operator/commit/e1976de7798002bdc54dd441ca7b94888ed799cd\">e1976de</a>\n- <a href=\"https://github.com/Abirdcfly/fabric-operator/commit/41a96769d8b754018e2d290e9e9a56badf90f641\">41a9676</a>\n- <a href=\"https://github.com/Abirdcfly/go-1/commit/d8f90ce0f8119bf593efb6fb91825de5b61fcda7\">d8f90ce</a>\n- <a href=\"https://github.com/Abirdcfly/go-1/commit/71424806fa76d5b5d1b2492741d2564664af136c\">7142480</a>\n- <a href=\"https://github.com/Abirdcfly/go-1/commit/469a87d7a57572148a176db1f43767aa90cdd10d\">469a87d</a>\n- <a href=\"https://github.com/Abirdcfly/go-1/commit/37c8112b825a2c60d1b3776c0b4f4c643391d490\">37c8112</a>\n- <a href=\"https://github.com/Abirdcfly/go-1/commit/64f2829c9cdf12b893068305b2451c81b0a5b3a6\">64f2829</a>\n- <a href=\"https://github.com/Abirdcfly/goreleaser/commit/cce963caf2d03cdedca70a620bb3b597b83ff1c9\">cce963c</a>\n- <a href=\"https://github.com/Abirdcfly/tools/commit/4375b29f44fb3bfb45abe6d2e1de68c34fcd9ec5\">4375b29</a>\n- <a href=\"https://github.com/bestchains/fabric-operator/commit/e1976de7798002bdc54dd441ca7b94888ed799cd\">e1976de</a>\n- <a href=\"https://github.com/bestchains/fabric-operator/commit/41a96769d8b754018e2d290e9e9a56badf90f641\">41a9676</a>\n- <a href=\"https://github.com/bjwswang/fabric-operator/commit/e1976de7798002bdc54dd441ca7b94888ed799cd\">e1976de</a>\n- <a href=\"https://github.com/bjwswang/fabric-operator/commit/41a96769d8b754018e2d290e9e9a56badf90f641\">41a9676</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/1282bfaa948b3b2bcb5fa4c834ce6b66f5e41c4d\">1282bfa</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/7156ee803278289965c573138cbe66d297caecb6\">7156ee8</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/1ae5ff1600393d0fa425822bb10d2ff75d9c0d24\">1ae5ff1</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/9a4932e807ee889746387954e092ad6b239077d0\">9a4932e</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/2699be2f13188bda45a798b18b40afd4d213b318\">2699be2</a>\n- <a href=\"https://github.com/kubebb/core/commit/fef366a2f4d8313e02a7f2271c1da41c4f03f2f0\">fef366a</a>\n- <a href=\"https://github.com/kubebb/core/commit/60ff8ffd905414a7b07afe777c6e4019486e87a6\">60ff8ff</a>\n- <a href=\"https://github.com/kubebb/core/commit/6c95f5a5a79ac60a8b230b5b37b227cb3b0de749\">6c95f5a</a>\n- <a href=\"https://github.com/kubebb/core/commit/43cfe63a63943a115155db55fdd701855551b117\">43cfe63</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/1282bfaa948b3b2bcb5fa4c834ce6b66f5e41c4d\">1282bfa</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/7156ee803278289965c573138cbe66d297caecb6\">7156ee8</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/1ae5ff1600393d0fa425822bb10d2ff75d9c0d24\">1ae5ff1</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/9a4932e807ee889746387954e092ad6b239077d0\">9a4932e</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/2699be2f13188bda45a798b18b40afd4d213b318\">2699be2</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/1282bfaa948b3b2bcb5fa4c834ce6b66f5e41c4d\">1282bfa</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/7156ee803278289965c573138cbe66d297caecb6\">7156ee8</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/1ae5ff1600393d0fa425822bb10d2ff75d9c0d24\">1ae5ff1</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/9a4932e807ee889746387954e092ad6b239077d0\">9a4932e</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/2699be2f13188bda45a798b18b40afd4d213b318\">2699be2</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/fef366a2f4d8313e02a7f2271c1da41c4f03f2f0\">fef366a</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/60ff8ffd905414a7b07afe777c6e4019486e87a6\">60ff8ff</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/6c95f5a5a79ac60a8b230b5b37b227cb3b0de749\">6c95f5a</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/43cfe63a63943a115155db55fdd701855551b117\">43cfe63</a>\n- <a href=\"https://github.com/kubebb/core/commit/fef366a2f4d8313e02a7f2271c1da41c4f03f2f0\">fef366a</a>\n- <a href=\"https://github.com/kubebb/core/commit/60ff8ffd905414a7b07afe777c6e4019486e87a6\">60ff8ff</a>\n- <a href=\"https://github.com/kubebb/core/commit/6c95f5a5a79ac60a8b230b5b37b227cb3b0de749\">6c95f5a</a>\n- <a href=\"https://github.com/kubebb/core/commit/43cfe63a63943a115155db55fdd701855551b117\">43cfe63</a>\n- <a href=\"https://github.com/bjwswang/fabric-operator/commit/e1976de7798002bdc54dd441ca7b94888ed799cd\">e1976de</a>\n- <a href=\"https://github.com/bjwswang/fabric-operator/commit/41a96769d8b754018e2d290e9e9a56badf90f641\">41a9676</a>\n- <a href=\"https://github.com/Abirdcfly/fabric-operator/commit/e1976de7798002bdc54dd441ca7b94888ed799cd\">e1976de</a>\n- <a href=\"https://github.com/Abirdcfly/fabric-operator/commit/41a96769d8b754018e2d290e9e9a56badf90f641\">41a9676</a>\n- <a href=\"https://github.com/bestchains/fabric-operator/commit/e1976de7798002bdc54dd441ca7b94888ed799cd\">e1976de</a>\n- <a href=\"https://github.com/bestchains/fabric-operator/commit/41a96769d8b754018e2d290e9e9a56badf90f641\">41a9676</a>\n- <a href=\"https://github.com/Abirdcfly/goreleaser/commit/cce963caf2d03cdedca70a620bb3b597b83ff1c9\">cce963c</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/93da1cf9d8829e28ad1a278c78c8d60ac7f91ecb\">93da1cf</a>\n- <a href=\"https://github.com/Abirdcfly/core/commit/c28972ad0a73565856cbbad3fe9412d9acd9ddbb\">c28972a</a>\n- <a href=\"https://github.com/kubebb/core/commit/c28972ad0a73565856cbbad3fe9412d9acd9ddbb\">c28972a</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/2aa61cada1b7a2d135cb20bbd99cc03c9af05f8a\">2aa61ca</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/784244b7d853190fd75f63deba729ddf2f5fdf46\">784244b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/core/commit/c28972ad0a73565856cbbad3fe9412d9acd9ddbb\">c28972a</a>\n- <a href=\"https://github.com/kubebb/core/commit/c28972ad0a73565856cbbad3fe9412d9acd9ddbb\">c28972a</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
-  },
-  {
-    "id": "thumbs-up",
-    "tier": 0,
-    "desc": "I have received a lot of thumbs up 👍 reactions!",
-    "body": "- [12 thumbs ups](https://github.com/actions/upload-artifact/issues/389)\n- [7 thumbs ups](https://github.com/kubeedge/kubeedge/issues/2677)\n- [6 thumbs ups](https://github.com/actions/gh-actions-cache/issues/77#issuecomment-1686014414)\n- [4 thumbs ups](https://github.com/tektoncd/operator/issues/1330)\n- [3 thumbs ups](https://github.com/swaggo/swag/issues/828)\n- [3 thumbs ups](https://github.com/docker/for-mac/issues/6803#issuecomment-1512383796)\n- [3 thumbs ups](https://github.com/kubebb/core/issues/194#issuecomment-1661665288)\n- [3 thumbs ups](https://github.com/kubebb/core/pull/197#issuecomment-1661904796)\n- [2 thumbs ups](https://github.com/kubeagi/arcadia/issues/413)\n- [2 thumbs ups](https://github.com/kubeedge/kubeedge/pull/2660)",
-    "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
   },
   {
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
-    "body": "* <a href=\"https://github.com/actions/upload-artifact/issues/389\">12 👍</a>",
+    "body": "* <a href=\"https://github.com/actions/upload-artifact/issues/389\">13 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/actions/upload-artifact/issues/389\">👍</a>\n* <a href=\"https://github.com/Vinzent03/obsidian-git/issues/105#issuecomment-951033714\">👍</a>\n* <a href=\"https://github.com/kubernetes/kubernetes/pull/92316#issuecomment-1079641098\">😕</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/Abirdcfly/dupword\">Abirdcfly/dupword</a>\n- <a href=\"https://github.com/Abirdcfly/pyexample\">Abirdcfly/pyexample</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]

@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Abirdcfly/arbiter/commit/9491d9dd695dcfaf6d545755e883569de7714dee">9491d9d</a>: chore: move metrics-server to independent ns
+- <a href="https://github.com/Abirdcfly/arcadia/commit/aa8009e9c903f27df6c53a2912ca6f308c460d86">aa8009e</a>: chore: update some default value
 
 Signed-off-by: Abirdcfly <fp544037857@gmail.com>
 
