@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1664 times)\n2. signed-off-by: (used 1660 times)\n3. <fp544037857@gmail.com> (used 1660 times)\n4. update (used 1085 times)\n5. readme.md (used 921 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1664 times)\n2. signed-off-by: (used 1660 times)\n3. <fp544037857@gmail.com> (used 1660 times)\n4. update (used 1086 times)\n5. readme.md (used 922 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -180,5 +180,12 @@
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/b355bf4ec70e70e3c14d283b19688f4c04bc00d2\">b355bf4</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/14f836224344d88757af242d00b0638f7b924305\">14f8362</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/956a49d5fab72bc6bbcbb8d82d341548ab0a3146\">956a49d</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/73874e22cf48231811df1117d767d1ff5c93da10\">73874e2</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/488b87283b48c95604b75c6e65860c96e36f7663\">488b872</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/488b87283b48c95604b75c6e65860c96e36f7663\">488b872</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/a57a06f55a55d4a1da12b7c3261a90d81fb3561a\">a57a06f</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/d2a958ecb57be643931909f0f8072d90381e20f4\">d2a958e</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/7b48f39f408613d9482b4c71539b8d874b9b6ae0\">7b48f39</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
   }
 ]
