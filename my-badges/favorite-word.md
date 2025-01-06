@@ -7,8 +7,8 @@ My favorite commit message words are:
 1. abirdcfly (used 1664 times)
 2. signed-off-by: (used 1660 times)
 3. <fp544037857@gmail.com> (used 1660 times)
-4. update (used 1102 times)
-5. readme.md (used 938 times)
+4. update (used 1103 times)
+5. readme.md (used 939 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
