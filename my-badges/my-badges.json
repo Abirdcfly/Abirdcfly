@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1666 times)\n2. signed-off-by: (used 1662 times)\n3. <fp544037857@gmail.com> (used 1662 times)\n4. update (used 1147 times)\n5. readme.md (used 983 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1666 times)\n2. signed-off-by: (used 1662 times)\n3. <fp544037857@gmail.com> (used 1662 times)\n4. update (used 1148 times)\n5. readme.md (used 984 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -187,5 +187,12 @@
     "desc": "Happy February 29th! I committed on a Leap Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/73874e22cf48231811df1117d767d1ff5c93da10\">73874e2</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/488b87283b48c95604b75c6e65860c96e36f7663\">488b872</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/488b87283b48c95604b75c6e65860c96e36f7663\">488b872</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/a57a06f55a55d4a1da12b7c3261a90d81fb3561a\">a57a06f</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/d2a958ecb57be643931909f0f8072d90381e20f4\">d2a958e</a>\n- <a href=\"https://github.com/kubeagi/langchaingo/commit/7b48f39f408613d9482b4c71539b8d874b9b6ae0\">7b48f39</a>",
     "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/ba38948d9d082690c0677ea5426a63a8bfe6b296\">ba38948</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/fb89b1589c23f93641fef57295abff2a21a94a55\">fb89b15</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/ab2f31ac806e12e0244e9bf3f234abcb9eb8c1f6\">ab2f31a</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/3f9c1912dcba00c3494109da175205cef124e82f\">3f9c191</a>\n- <a href=\"https://github.com/bjwswang/fabric-operator/commit/c26b3b7a955bf753516a0eb0da47f95631dc0e10\">c26b3b7</a>\n- <a href=\"https://github.com/Abirdcfly/fabric-operator/commit/c26b3b7a955bf753516a0eb0da47f95631dc0e10\">c26b3b7</a>\n- <a href=\"https://github.com/bestchains/fabric-operator/commit/c26b3b7a955bf753516a0eb0da47f95631dc0e10\">c26b3b7</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
