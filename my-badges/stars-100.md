@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/Abirdcfly/xiaoe_download">Abirdcfly/xiaoe_download: ★65</a>
 * <a href="https://github.com/Abirdcfly/dupword">Abirdcfly/dupword: ★14</a>
 * <a href="https://github.com/Abirdcfly/kindle-calibre-recipe">Abirdcfly/kindle-calibre-recipe: ★13</a>
-* <a href="https://github.com/kubebb/core">kubebb/core: ★8</a>
+* <a href="https://github.com/kubebb/core">kubebb/core: ★9</a>
 * <a href="https://github.com/kubeagi/ops-console">kubeagi/ops-console: ★8</a>
 * <a href="https://github.com/bestchains/fabric-operator">bestchains/fabric-operator: ★6</a>
 * <a href="https://github.com/kubebb/components">kubebb/components: ★4</a>
