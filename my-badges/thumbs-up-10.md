@@ -2,7 +2,7 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/actions/upload-artifact/issues/389">16 👍</a>
+* <a href="https://github.com/actions/upload-artifact/issues/389">17 👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
