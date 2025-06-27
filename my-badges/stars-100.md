@@ -26,6 +26,7 @@ Repos:
 * <a href="https://github.com/Abirdcfly/helm-oci-example">Abirdcfly/helm-oci-example: ★1</a>
 * <a href="https://github.com/Abirdcfly/langchaingo-google-stream-exit-early">Abirdcfly/langchaingo-google-stream-exit-early: ★1</a>
 * <a href="https://github.com/Abirdcfly/pyexample">Abirdcfly/pyexample: ★1</a>
+* <a href="https://github.com/Abirdcfly/HAMi">Abirdcfly/HAMi: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
