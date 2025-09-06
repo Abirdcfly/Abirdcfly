@@ -8,7 +8,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/kubeagi/core-library/issues/56">#56</a>: cant use bge-reranker-large in cpu mode
 - <a href="https://github.com/LMCache/LMCache/issues/1084">#1084</a>: AttributeError: 'NoneType' object has no attribute 'receiver_info'
 - <a href="https://github.com/LMCache/LMCache/issues/1142">#1142</a>: disagg_prefill prefiller cant work with tensor-parallel-size > 1
-- <a href="https://github.com/soimort/you-get/issues/1228">#1228</a>: [IQIYI]爱奇艺很多老视频不能下载.
+- <a href="https://github.com/chatboxai/chatbox/issues/2636">#2636</a>: [BUG] Cannot connect to the official ES MCP
 
  And many more...
 
