@@ -9,13 +9,12 @@ Repos:
 * <a href="https://github.com/Abirdcfly/kindle-calibre-recipe">Abirdcfly/kindle-calibre-recipe: ★13</a>
 * <a href="https://github.com/kubebb/core">kubebb/core: ★9</a>
 * <a href="https://github.com/kubeagi/ops-console">kubeagi/ops-console: ★8</a>
-* <a href="https://github.com/bestchains/fabric-operator">bestchains/fabric-operator: ★7</a>
+* <a href="https://github.com/bestchains/fabric-operator">bestchains/fabric-operator: ★6</a>
 * <a href="https://github.com/kubebb/components">kubebb/components: ★4</a>
-* <a href="https://github.com/bestchains/HackTheAI">bestchains/HackTheAI: ★3</a>
 * <a href="https://github.com/bestchains/product-design">bestchains/product-design: ★2</a>
 * <a href="https://github.com/bestchains/website">bestchains/website: ★2</a>
+* <a href="https://github.com/bestchains/HackTheAI">bestchains/HackTheAI: ★2</a>
 * <a href="https://github.com/Abirdcfly/FreeGPT35-Vercel">Abirdcfly/FreeGPT35-Vercel: ★2</a>
-* <a href="https://github.com/Abirdcfly/Abirdcfly">Abirdcfly/Abirdcfly: ★1</a>
 * <a href="https://github.com/Abirdcfly/kubernetes">Abirdcfly/kubernetes: ★1</a>
 * <a href="https://github.com/Abirdcfly/test-infra">Abirdcfly/test-infra: ★1</a>
 * <a href="https://github.com/Abirdcfly/goimportsduplicate">Abirdcfly/goimportsduplicate: ★1</a>
