@@ -2,8 +2,8 @@
 <strong>I liked my own comment so much that I upvoted it.</strong>
 <br><br>
 
-* <a href="https://github.com/CherryHQ/cherry-studio/issues/9929">👍</a>
 * <a href="https://github.com/actions/upload-artifact/issues/389">👍</a>
+* <a href="https://github.com/CherryHQ/cherry-studio/issues/9929">👍</a>
 * <a href="https://github.com/Vinzent03/obsidian-git/issues/105#issuecomment-951033714">👍</a>
 * <a href="https://github.com/kubernetes/kubernetes/pull/92316#issuecomment-1079641098">😕</a>
 
