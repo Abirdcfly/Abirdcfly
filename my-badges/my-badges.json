@@ -94,14 +94,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1682 times)\n2. signed-off-by: (used 1678 times)\n3. <fp544037857@gmail.com> (used 1678 times)\n4. update (used 1395 times)\n5. readme.md (used 1225 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1682 times)\n2. signed-off-by: (used 1678 times)\n3. <fp544037857@gmail.com> (used 1678 times)\n4. update (used 1396 times)\n5. readme.md (used 1226 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/golang/go/issues/53968\">#53968</a>: cmd/vet: should check unreachable code﻿ after t.FailNow or related functions\n- <a href=\"https://github.com/kubeagi/core-library/issues/56\">#56</a>: cant use bge-reranker-large in cpu mode\n- <a href=\"https://github.com/LMCache/LMCache/issues/1084\">#1084</a>: AttributeError: 'NoneType' object has no attribute 'receiver_info'\n- <a href=\"https://github.com/LMCache/LMCache/issues/1142\">#1142</a>: disagg_prefill prefiller cant work with tensor-parallel-size > 1\n- <a href=\"https://github.com/chatboxai/chatbox/issues/2636\">#2636</a>: [BUG] Cannot connect to the official ES MCP\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/golang/go/issues/53968\">#53968</a>: cmd/vet: should check unreachable code﻿ after t.FailNow or related functions\n- <a href=\"https://github.com/kubeagi/core-library/issues/56\">#56</a>: cant use bge-reranker-large in cpu mode\n- <a href=\"https://github.com/LMCache/LMCache/issues/1142\">#1142</a>: disagg_prefill prefiller cant work with tensor-parallel-size > 1\n- <a href=\"https://github.com/chatboxai/chatbox/issues/2636\">#2636</a>: [BUG] Cannot connect to the official ES MCP\n- <a href=\"https://github.com/soimort/you-get/issues/1228\">#1228</a>: [IQIYI]爱奇艺很多老视频不能下载.\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
