@@ -6,6 +6,7 @@
 * <a href="https://github.com/CherryHQ/cherry-studio/issues/9929">👍</a>
 * <a href="https://github.com/Vinzent03/obsidian-git/issues/105#issuecomment-951033714">👍</a>
 * <a href="https://github.com/kubernetes/kubernetes/pull/92316#issuecomment-1079641098">😕</a>
+* <a href="https://github.com/kubeedge/kubeedge/issues/5850#issuecomment-3425370585">👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
