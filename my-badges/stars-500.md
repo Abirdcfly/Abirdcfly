@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/kubeagi/arcadia">kubeagi/arcadia: ★107</a>
+* <a href="https://github.com/kubeagi/arcadia">kubeagi/arcadia: ★108</a>
 * <a href="https://github.com/Abirdcfly/xiaoe_download">Abirdcfly/xiaoe_download: ★69</a>
 * <a href="https://github.com/Abirdcfly/dupword">Abirdcfly/dupword: ★15</a>
 * <a href="https://github.com/Abirdcfly/kindle-calibre-recipe">Abirdcfly/kindle-calibre-recipe: ★13</a>
@@ -14,7 +14,6 @@ Repos:
 * <a href="https://github.com/kubebb/components">kubebb/components: ★4</a>
 * <a href="https://github.com/Abirdcfly/Leetcode">Abirdcfly/Leetcode: ★3</a>
 * <a href="https://github.com/Abirdcfly/federation">Abirdcfly/federation: ★3</a>
-* <a href="https://github.com/Abirdcfly/FreeGPT35-Vercel">Abirdcfly/FreeGPT35-Vercel: ★3</a>
 * <a href="https://github.com/Abirdcfly/kubernetes">Abirdcfly/kubernetes: ★2</a>
 * <a href="https://github.com/Abirdcfly/test-infra">Abirdcfly/test-infra: ★2</a>
 * <a href="https://github.com/Abirdcfly/goimportsduplicate">Abirdcfly/goimportsduplicate: ★2</a>
@@ -25,6 +24,7 @@ Repos:
 * <a href="https://github.com/Abirdcfly/helm-oci-example">Abirdcfly/helm-oci-example: ★2</a>
 * <a href="https://github.com/Abirdcfly/langchaingo-google-stream-exit-early">Abirdcfly/langchaingo-google-stream-exit-early: ★2</a>
 * <a href="https://github.com/Abirdcfly/pyexample">Abirdcfly/pyexample: ★2</a>
+* <a href="https://github.com/Abirdcfly/FreeGPT35-Vercel">Abirdcfly/FreeGPT35-Vercel: ★2</a>
 * <a href="https://github.com/Abirdcfly/HAMi">Abirdcfly/HAMi: ★2</a>
 * <a href="https://github.com/Abirdcfly/ipv6-hosts">Abirdcfly/ipv6-hosts: ★1</a>
 * <a href="https://github.com/Abirdcfly/kechenggezi-Spider">Abirdcfly/kechenggezi-Spider: ★1</a>
