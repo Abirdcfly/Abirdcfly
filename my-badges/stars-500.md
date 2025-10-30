@@ -336,6 +336,7 @@ Repos:
 * <a href="https://github.com/Abirdcfly/mcp-server-elasticsearch">Abirdcfly/mcp-server-elasticsearch: ★1</a>
 * <a href="https://github.com/Abirdcfly/edgemesh">Abirdcfly/edgemesh: ★1</a>
 * <a href="https://github.com/Abirdcfly/fluent-operator">Abirdcfly/fluent-operator: ★1</a>
+* <a href="https://github.com/Abirdcfly/VictoriaMetrics-operator">Abirdcfly/VictoriaMetrics-operator: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
