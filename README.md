@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
 <a href="my-badges/stars-500.md"><img src="https://my-badges.github.io/my-badges/stars-500.png" alt="I collected 500 stars." title="I collected 500 stars." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 2 my own repositories." title="I&apos;ve starred 2 my own repositories." width="64"></a>
 <!-- my-badges end -->
 
 ---
