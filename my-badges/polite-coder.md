@@ -6,9 +6,9 @@ I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/golang/go/issues/53968">#53968</a>: cmd/vet: should check unreachable code﻿ after t.FailNow or related functions
 - <a href="https://github.com/kubeagi/core-library/issues/56">#56</a>: cant use bge-reranker-large in cpu mode
-- <a href="https://github.com/LMCache/LMCache/issues/1142">#1142</a>: disagg_prefill prefiller cant work with tensor-parallel-size > 1
 - <a href="https://github.com/chatboxai/chatbox/issues/2636">#2636</a>: [BUG] Cannot connect to the official ES MCP
 - <a href="https://github.com/soimort/you-get/issues/1228">#1228</a>: [IQIYI]爱奇艺很多老视频不能下载.
+- <a href="https://github.com/kubernetes/website/issues/23481">#23481</a>: It consists of 33 enhancements should be 43？
 
  And many more...
 
