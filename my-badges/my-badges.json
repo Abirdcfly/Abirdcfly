@@ -87,7 +87,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1686 times)\n2. signed-off-by: (used 1682 times)\n3. <fp544037857@gmail.com> (used 1682 times)\n4. update (used 1460 times)\n5. readme.md (used 1290 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1686 times)\n2. signed-off-by: (used 1682 times)\n3. <fp544037857@gmail.com> (used 1682 times)\n4. update (used 1461 times)\n5. readme.md (used 1291 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -187,12 +187,5 @@
     "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/6a06971f9ed6a15d29945fdef4674e303dfdbb7c\">6a06971</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/8016ab821a9a6d904a77c073a23ea7e2cd61ecf6\">8016ab8</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/4d629e5f461d793af6b295bf4ca2b770ce5c9371\">4d629e5</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/66de1db70bdfe66b3ec4b293e216ae6c4db4383c\">66de1db</a>",
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/Abirdcfly/dupword\">Abirdcfly/dupword</a>\n- <a href=\"https://github.com/Abirdcfly/pyexample\">Abirdcfly/pyexample</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
