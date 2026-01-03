@@ -87,7 +87,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1688 times)\n2. signed-off-by: (used 1684 times)\n3. <fp544037857@gmail.com> (used 1684 times)\n4. update (used 1471 times)\n5. readme.md (used 1301 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1688 times)\n2. signed-off-by: (used 1684 times)\n3. <fp544037857@gmail.com> (used 1684 times)\n4. update (used 1472 times)\n5. readme.md (used 1302 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -208,12 +208,5 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/3d47fda7b239db7e7ffc5e89f69e2537ef3837b4\">3d47fda</a>\n- <a href=\"https://github.com/Abirdcfly/arcadia/commit/5d12675a5f9ee94d9e0bf4e615f33f12bdab3bdc\">5d12675</a>\n- <a href=\"https://github.com/kubeagi/arcadia/commit/5d12675a5f9ee94d9e0bf4e615f33f12bdab3bdc\">5d12675</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/30250e441e255389f306757ec97316e83109e2b9\">30250e4</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/4e081b61586cf126d37e237d30354803f642e38b\">4e081b6</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/Abirdcfly/dupword\">Abirdcfly/dupword</a>\n- <a href=\"https://github.com/Abirdcfly/pyexample\">Abirdcfly/pyexample</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
