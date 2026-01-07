@@ -87,7 +87,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1688 times)\n2. signed-off-by: (used 1684 times)\n3. <fp544037857@gmail.com> (used 1684 times)\n4. update (used 1475 times)\n5. readme.md (used 1305 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1688 times)\n2. signed-off-by: (used 1684 times)\n3. <fp544037857@gmail.com> (used 1684 times)\n4. update (used 1476 times)\n5. readme.md (used 1306 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -210,10 +210,10 @@
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
-    "id": "self-star",
+    "id": "st-patricks-day",
     "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/Abirdcfly/dupword\">Abirdcfly/dupword</a>\n- <a href=\"https://github.com/Abirdcfly/pyexample\">Abirdcfly/pyexample</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/62c2e640350383dffb3cd5776b49e1c9e07d4fbc\">62c2e64</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/f6a9a0109f5b60b264a200e36c1c6db47a9714e5\">f6a9a01</a>\n- <a href=\"https://github.com/Abirdcfly/installer/commit/c3a7b2f64527cff674a00414511f85eee0eedb17\">c3a7b2f</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/46e0e9f3cafce72263fe299aac39968fbd82d09b\">46e0e9f</a>\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/c42109006e5ed1e22079875fe72d227a7c14159b\">c421090</a>\n- <a href=\"https://github.com/Abirdcfly/test-github-action/commit/0d768e6e69936fb92d54ad1618cb5171076233a7\">0d768e6</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
