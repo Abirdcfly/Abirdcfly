@@ -87,7 +87,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"abirdcfly\".",
-    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1690 times)\n2. signed-off-by: (used 1686 times)\n3. <fp544037857@gmail.com> (used 1686 times)\n4. update (used 1486 times)\n5. readme.md (used 1316 times)",
+    "body": "My favorite commit message words are:\n\n1. abirdcfly (used 1690 times)\n2. signed-off-by: (used 1686 times)\n3. <fp544037857@gmail.com> (used 1686 times)\n4. update (used 1487 times)\n5. readme.md (used 1317 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -229,5 +229,12 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/bb01f1dcaab321b2961cc2caa39a542b30891a25\">bb01f1d</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/a0d25251bb67d9404d4f425150cc4ab0380801ad\">a0d2525</a>\n- <a href=\"https://github.com/Abirdcfly/Abirdcfly/commit/fc4d132e9f9634b76d819e35b8921fe9cd1e2359\">fc4d132</a>\n- <a href=\"https://github.com/bjwswang/fabric-operator/commit/e1976de7798002bdc54dd441ca7b94888ed799cd\">e1976de</a>\n- <a href=\"https://github.com/Abirdcfly/fabric-operator/commit/e1976de7798002bdc54dd441ca7b94888ed799cd\">e1976de</a>\n- <a href=\"https://github.com/bestchains/fabric-operator/commit/e1976de7798002bdc54dd441ca7b94888ed799cd\">e1976de</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/Abirdcfly/dupword\">Abirdcfly/dupword</a>\n- <a href=\"https://github.com/Abirdcfly/pyexample\">Abirdcfly/pyexample</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
