@@ -189,13 +189,6 @@
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/Abirdcfly/dupword\">Abirdcfly/dupword</a>\n- <a href=\"https://github.com/Abirdcfly/pyexample\">Abirdcfly/pyexample</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
