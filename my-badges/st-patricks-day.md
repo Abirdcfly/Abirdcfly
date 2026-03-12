@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Abirdcfly/Abirdcfly/commit/62c2e640350383dffb3cd5776b49e1c9e07d4fbc">62c2e64</a>
-- <a href="https://github.com/Abirdcfly/Abirdcfly/commit/f6a9a0109f5b60b264a200e36c1c6db47a9714e5">f6a9a01</a>
 - <a href="https://github.com/Abirdcfly/installer/commit/c3a7b2f64527cff674a00414511f85eee0eedb17">c3a7b2f</a>
-- <a href="https://github.com/Abirdcfly/Abirdcfly/commit/46e0e9f3cafce72263fe299aac39968fbd82d09b">46e0e9f</a>
 - <a href="https://github.com/Abirdcfly/test-github-action/commit/c42109006e5ed1e22079875fe72d227a7c14159b">c421090</a>
 - <a href="https://github.com/Abirdcfly/test-github-action/commit/0d768e6e69936fb92d54ad1618cb5171076233a7">0d768e6</a>
+- <a href="https://github.com/Abirdcfly/test-github-action/commit/48041900552532f61dfc8c9f05fdc46d18ef566c">4804190</a>
+- <a href="https://github.com/Abirdcfly/test-github-action/commit/cdb2497205ed8b19370a3341ae64d25045a19451">cdb2497</a>
+- <a href="https://github.com/Abirdcfly/test-github-action/commit/e66e1ab4a854b362ab0635efedf4941b7d9f6129">e66e1ab</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
