@@ -4,7 +4,6 @@
 
 Commits:
 
-- <a href="https://github.com/Abirdcfly/Abirdcfly/commit/73874e22cf48231811df1117d767d1ff5c93da10">73874e2</a>
 - <a href="https://github.com/Abirdcfly/arcadia/commit/488b87283b48c95604b75c6e65860c96e36f7663">488b872</a>
 - <a href="https://github.com/kubeagi/arcadia/commit/488b87283b48c95604b75c6e65860c96e36f7663">488b872</a>
 - <a href="https://github.com/kubeagi/langchaingo/commit/a57a06f55a55d4a1da12b7c3261a90d81fb3561a">a57a06f</a>
