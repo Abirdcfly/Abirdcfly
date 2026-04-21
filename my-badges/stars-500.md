@@ -42,6 +42,7 @@ Repos:
 * <a href="https://github.com/Abirdcfly/geekpdf">Abirdcfly/geekpdf: ★1</a>
 * <a href="https://github.com/Abirdcfly/geektime_dl">Abirdcfly/geektime_dl: ★1</a>
 * <a href="https://github.com/Abirdcfly/juejinxiaoceToPDFByPy">Abirdcfly/juejinxiaoceToPDFByPy: ★1</a>
+* <a href="https://github.com/Abirdcfly/WeiBoFav">Abirdcfly/WeiBoFav: ★1</a>
 * <a href="https://github.com/Abirdcfly/gitbook2pdf">Abirdcfly/gitbook2pdf: ★1</a>
 * <a href="https://github.com/Abirdcfly/kubefed">Abirdcfly/kubefed: ★1</a>
 * <a href="https://github.com/Abirdcfly/kubectl-neat">Abirdcfly/kubectl-neat: ★1</a>
