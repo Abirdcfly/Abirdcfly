@@ -9,6 +9,7 @@ Commits:
 - <a href="https://github.com/kubeagi/langchaingo/commit/1ee33af9af6490a0d32e3dc5f657162b43badc89">1ee33af</a>
 - <a href="https://github.com/Abirdcfly/langchaingo/commit/1ee33af9af6490a0d32e3dc5f657162b43badc89">1ee33af</a>
 - <a href="https://github.com/Abirdcfly/pipeline-1/commit/f81adbf2d99cd9cbab0b223891cc5e5207164674">f81adbf</a>
+- <a href="https://github.com/Abirdcfly/Abirdcfly/commit/f5b3406a9cd16fc5af12491ca5dd2813de485fe5">f5b3406</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
